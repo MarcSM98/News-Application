@@ -7,9 +7,9 @@ The News Application is a web-based platform designed to streamline the creation
 
 
 ## Tools
-Frontend Frameworks: Next.js, React
-Backend: Node.js
-Database: MongoDB
+- Frontend Frameworks: Next.js, React
+- Backend: Node.js
+- Database: MongoDB
 
 
 ## Features
