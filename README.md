@@ -13,7 +13,7 @@ Database: MongoDB
 
 
 ## Features
-### Writer
+### Writer Role
 - Create news articles under specific categories (e.g., Travel, Business, Technology).
 - Update news articles to amend any changes
 - Delete news articles for removal 
@@ -24,7 +24,7 @@ Database: MongoDB
 
 
 
-### Admin
+### Admin Role
 - View a list of all submitted articles
 - Approve or decline articles with feedback for writers
 - Add new writers for publication of news articles
@@ -34,6 +34,24 @@ Database: MongoDB
 ![Add Writer Page](https://github.com/user-attachments/assets/28916551-a213-43fa-bde5-a59b44646d42)
 ![Writer Page](https://github.com/user-attachments/assets/e4856309-2db8-4ad8-8798-4348a9b89242)
 ![Profile Page](https://github.com/user-attachments/assets/2c51137d-62ee-4573-900a-17cc1c3da086)
+
+
+
+
+### Frontend
+![News Details Page](https://github.com/user-attachments/assets/5bc2571a-e1f7-4dde-9c60-6e808cdf408f)
+![Related News Page](https://github.com/user-attachments/assets/c26a00a3-68db-439d-886f-5e756e44fd51)
+![Search](https://github.com/user-attachments/assets/c35ca81b-b3b2-4dff-a3fd-7b5bb29b8691)
+
+
+
+
+### Database (MongoDB)
+- Authors
+- News
+![Authors](https://github.com/user-attachments/assets/3f51df15-0855-4a4c-91f0-e2da04bfd443)
+![News](https://github.com/user-attachments/assets/6d0612ce-028d-4673-9ff1-fd3bb9fac24f)
+
 
 
 
