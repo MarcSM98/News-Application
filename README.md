@@ -18,9 +18,9 @@ The News Application is a web-based platform designed to streamline the creation
 - Update news articles to amend any changes
 - Delete news articles for removal 
 - View the status of submitted articles (Approved, Pending, or Declined).
-![Add News Page](https://github.com/user-attachments/assets/b1d4229b-4774-4e04-97fd-a6e0b55939ba)
+![Add News Page](https://github.com/user-attachments/assets/82b919ae-cfa9-448f-9282-458a6d723bb2)
 ![News Page](https://github.com/user-attachments/assets/413086c7-f244-4ad9-a9f6-d027772b8fe5)
-![Profile Page](https://github.com/user-attachments/assets/ed8f4670-0c11-4fdb-a7c9-dbd48e3fa0d0)
+![Profile Page](https://github.com/user-attachments/assets/31c1acb4-4920-4cc2-a8df-0cd49536fdc3)
 
 
 
