@@ -19,8 +19,9 @@ Writer
 - Delete news articles for removal 
 - View the status of submitted articles (Approved, Pending, or Declined).
 ![Add News Page](https://github.com/user-attachments/assets/b1d4229b-4774-4e04-97fd-a6e0b55939ba)
-![News Page](https://github.com/user-attachments/assets/07![Profile Page](https://github.com/user-attachments/assets/57c72bd9-f86a-4a60-b477-5fb373aa733d)
-52ba41-d02d-41a2-b5ed-b913b8305f75)
+![News Page](https://github.com/user-attachments/assets/413086c7-f244-4ad9-a9f6-d027772b8fe5)
+![Profile Page](https://github.com/user-attachments/assets/ed8f4670-0c11-4fdb-a7c9-dbd48e3fa0d0)
+
 
 
 Admin
