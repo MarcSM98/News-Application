@@ -13,7 +13,7 @@ Database: MongoDB
 
 
 ## Features
-Writer
+### Writer
 - Create news articles under specific categories (e.g., Travel, Business, Technology).
 - Update news articles to amend any changes
 - Delete news articles for removal 
@@ -24,7 +24,7 @@ Writer
 
 
 
-Admin
+### Admin
 - View a list of all submitted articles
 - Approve or decline articles with feedback for writers
 - Add new writers for publication of news articles
