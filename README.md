@@ -56,6 +56,7 @@ The News Application is a web-based platform designed to streamline the creation
 
 
 ## Video
+https://drive.google.com/file/d/1KucUg4uI2rW6YmALWoVQ4oVWGk17SWxe/view?usp=sharing
 
 
 
