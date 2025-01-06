@@ -29,11 +29,11 @@ The News Application is a web-based platform designed to streamline the creation
 - Approve or decline articles with feedback for writers
 - Add new writers for publication of news articles
 - Manage article categories and publication settings
-![Dashboard](https://github.com/user-attachments/assets/b57f2065-ddcd-4f55-9e58-344203c3715c)
-![News Page](https://github.com/user-attachments/assets/c449c133-80ae-4734-803b-e3fcb3310887)
-![Add Writer Page](https://github.com/user-attachments/assets/28916551-a213-43fa-bde5-a59b44646d42)
-![Writer Page](https://github.com/user-attachments/assets/e4856309-2db8-4ad8-8798-4348a9b89242)
-![Profile Page](https://github.com/user-attachments/assets/2c51137d-62ee-4573-900a-17cc1c3da086)
+![Dashboard](https://github.com/user-attachments/assets/2b1c3c00-0ed7-4b34-9ee8-028a835c7d77)
+![News Page](https://github.com/user-attachments/assets/e61017fe-ead8-4ce2-93ac-5ef184e0a639)
+![Add Writer Page](https://github.com/user-attachments/assets/f5d5c6cd-aa2a-44fe-8f16-21fc41cad4d1)
+![Writer Page](https://github.com/user-attachments/assets/96199b4c-7733-420d-a817-fd7df98c2640)
+![Profile Page](https://github.com/user-attachments/assets/b37adde6-3e3c-4bdb-9685-45744b63cc3a)
 
 
 
