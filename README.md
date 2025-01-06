@@ -43,7 +43,10 @@ The application serves as a dynamic web-based platform that provide users the op
 - Real-time feedback on article status updates
 ![News Details Page](https://github.com/user-attachments/assets/5bc2571a-e1f7-4dde-9c60-6e808cdf408f)
 ![Related News Page](https://github.com/user-attachments/assets/c26a00a3-68db-439d-886f-5e756e44fd51)
+![Home Page 2](https://github.com/user-attachments/assets/4e5800ce-7418-48d8-92dd-a7fc1d002b6c)
+![Category](https://github.com/user-attachments/assets/babf6223-1bb7-493e-ae8e-78a2b9841bdb)
 ![Search](https://github.com/user-attachments/assets/c35ca81b-b3b2-4dff-a3fd-7b5bb29b8691)
+
 
 
 
