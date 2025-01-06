@@ -1,9 +1,9 @@
-# News_Application
+# News Application
 ![Home Page](https://github.com/user-attachments/assets/e454bdd1-62e6-4528-9dab-7132cc2d3528)
 
 
 ## Background
-The News Application is a web-based platform designed to streamline the creation, approval, and publication of news articles. This project facilitates collaboration between Writers and Admins, ensuring content quality and relevance. Writers can draft news articles under specific categories (e.g., Travel, Business), while Admins review, approve, or decline the submitted articles before publication.
+The application serves as a dynamic web-based platform that provide users the option of creating, reviewing, and publishing news articles. It features two primary roles: Writer and Admin. The writer can draft and categorize articles (e.g., Travel, Business), while Admins manage the approval process and decides the publication status of each submission. This project integrates a backend functionality with an intuitive frontend interface.
 
 
 ## Tools
@@ -14,10 +14,10 @@ The News Application is a web-based platform designed to streamline the creation
 
 ## Features
 ### Writer Role
-- Create news articles under specific categories (e.g., Travel, Business, Technology).
-- Update news articles to amend any changes
+- Create news articles under specific categories (e.g., Travel, Business).
+- Edit and update news articles to amend any changes
 - Delete news articles for removal 
-- View the status of submitted articles (Approved, Pending, or Declined).
+- View the status of submitted articles (Active, Deactive, or Pending).
 ![Add News Page](https://github.com/user-attachments/assets/82b919ae-cfa9-448f-9282-458a6d723bb2)
 ![News Page](https://github.com/user-attachments/assets/e98c6be0-36dd-483a-92f6-2b9ef378fb62)
 ![Profile Page](https://github.com/user-attachments/assets/31c1acb4-4920-4cc2-a8df-0cd49536fdc3)
@@ -25,9 +25,9 @@ The News Application is a web-based platform designed to streamline the creation
 
 
 ### Admin Role
-- View a list of all submitted articles
-- Approve or decline articles with feedback for writers
-- Add new writers for publication of news articles
+- View and manage a list of submitted articles
+- Approve or decline news articles for publication
+- Add and manage Writer accounts
 - Manage article categories and publication settings
 ![Dashboard](https://github.com/user-attachments/assets/2b1c3c00-0ed7-4b34-9ee8-028a835c7d77)
 ![News Page](https://github.com/user-attachments/assets/e61017fe-ead8-4ce2-93ac-5ef184e0a639)
@@ -39,6 +39,8 @@ The News Application is a web-based platform designed to streamline the creation
 
 
 ### Frontend
+- Dedicated interfaces for Writer and Admin to manage tasks
+- Real-time feedback on article status updates
 ![News Details Page](https://github.com/user-attachments/assets/5bc2571a-e1f7-4dde-9c60-6e808cdf408f)
 ![Related News Page](https://github.com/user-attachments/assets/c26a00a3-68db-439d-886f-5e756e44fd51)
 ![Search](https://github.com/user-attachments/assets/c35ca81b-b3b2-4dff-a3fd-7b5bb29b8691)
@@ -47,8 +49,8 @@ The News Application is a web-based platform designed to streamline the creation
 
 
 ### Database (MongoDB)
-- Authors
-- News
+- Stores information about Writers and Admins (e.g., roles, credentials).
+- Captures article content, categories, statuses, timestamps, and assigned writers.
 ![Authors](https://github.com/user-attachments/assets/3f51df15-0855-4a4c-91f0-e2da04bfd443)
 ![News](https://github.com/user-attachments/assets/6d0612ce-028d-4673-9ff1-fd3bb9fac24f)
 
