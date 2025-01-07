@@ -1,6 +1,6 @@
 # News Application
 ![Home Page](https://github.com/user-attachments/assets/e454bdd1-62e6-4528-9dab-7132cc2d3528)
-- Video link for overall demostration: https://drive.google.com/file/d/1KucUg4uI2rW6YmALWoVQ4oVWGk17SWxe/view?usp=sharing
+- Video Demonstration: https://drive.google.com/file/d/1KucUg4uI2rW6YmALWoVQ4oVWGk17SWxe/view?usp=sharing
 
 
 ## Background
@@ -19,8 +19,9 @@ Database:
 - MongoDB
 
 
-## Backend
-### Writer Role
+## Features
+### Backend
+Writer Role
 - Create news articles under specific categories (e.g., Travel, Business).
 - Edit and update news articles to amend any changes
 - Delete news articles for removal 
@@ -31,7 +32,7 @@ Database:
 
 
 
-### Admin Role
+Admin Role
 - View and manage a list of submitted articles
 - Approve or decline news articles for publication
 - Add and manage Writer accounts
