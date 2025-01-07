@@ -19,7 +19,7 @@ Database:
 - MongoDB
 
 
-## Features
+## Backend
 ### Writer Role
 - Create news articles under specific categories (e.g., Travel, Business).
 - Edit and update news articles to amend any changes
