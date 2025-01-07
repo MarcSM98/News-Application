@@ -20,8 +20,7 @@ Database:
 
 
 ## Features
-### Backend
-#### Writer Role
+### Writer Role
 - Create news articles under specific categories (e.g., Travel, Business).
 - Edit and update news articles to amend any changes
 - Delete news articles for removal 
@@ -32,7 +31,7 @@ Database:
 
 
 
-#### Admin Role
+### Admin Role
 - View and manage a list of submitted articles
 - Approve or decline news articles for publication
 - Add and manage Writer accounts
