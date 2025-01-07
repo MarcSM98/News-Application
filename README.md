@@ -46,7 +46,7 @@ Database:
 
 
 
-### Frontend
+## Frontend
 ![News Details Page](https://github.com/user-attachments/assets/5bc2571a-e1f7-4dde-9c60-6e808cdf408f)
 ![Related News Page](https://github.com/user-attachments/assets/c26a00a3-68db-439d-886f-5e756e44fd51)
 ![Home Page 2](https://github.com/user-attachments/assets/4e5800ce-7418-48d8-92dd-a7fc1d002b6c)
@@ -57,7 +57,7 @@ Database:
 
 
 
-### Database
+## Database
 ![Authors](https://github.com/user-attachments/assets/3f51df15-0855-4a4c-91f0-e2da04bfd443)
 ![News](https://github.com/user-attachments/assets/6d0612ce-028d-4673-9ff1-fd3bb9fac24f)
 
