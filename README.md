@@ -58,7 +58,7 @@ Database:
 
 
 
-### Database (MongoDB)
+### Database
 - Stores information about Writers and Admins (e.g., roles, credentials).
 - Captures article content, categories, statuses, timestamps, and assigned writers.
 ![Authors](https://github.com/user-attachments/assets/3f51df15-0855-4a4c-91f0-e2da04bfd443)
