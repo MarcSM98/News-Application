@@ -1,6 +1,6 @@
 # News Application
-- Video link for overall demostration: https://drive.google.com/file/d/1KucUg4uI2rW6YmALWoVQ4oVWGk17SWxe/view?usp=sharing
 ![Home Page](https://github.com/user-attachments/assets/e454bdd1-62e6-4528-9dab-7132cc2d3528)
+- Video link for overall demostration: https://drive.google.com/file/d/1KucUg4uI2rW6YmALWoVQ4oVWGk17SWxe/view?usp=sharing
 
 
 ## Background
